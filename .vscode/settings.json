@@ -1,4 +1,7 @@
 {
     "js/ts.tsdk.path": "node_modules\\typescript\\lib",
-    "prettier.configPath": ""
+    "prettier.configPath": "",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.colorCustomizations": {
+    }
 }

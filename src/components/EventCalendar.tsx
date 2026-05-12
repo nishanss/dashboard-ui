@@ -30,6 +30,37 @@ const events = [
         time: "10:00 AM - 11:00 AM",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
+    {
+        id: 4,
+        title: "this one's real",
+        time: "10:00 AM - 11:00 AM",
+        description: "and this description is also real",
+    },
+    {
+        id: 5,
+        title: "another real one. just a banger, man",
+        time: "10:00 AM - 11:00 AM",
+        description: "no words, man. just banger after banger"
+    },
+    {
+        id: 6,
+        title: "another one",
+        time: "10:00 AM - 11:00 AM",
+        description: "cant help winning"
+    },
+    {
+        id: 7, 
+        title: "yet another one",
+        time: "10:00 AM - 11:00 AM",
+        description: "probably gotta stop"
+    },
+    { 
+        id: 8,
+        title: "ok last one",
+        time: "10:00 AM - 11:00 AM",
+        description: "i swear"
+    },
+
 ]
 
 const EventCalendar = () => {
