@@ -3,5 +3,11 @@
     "prettier.configPath": "",
     "workbench.iconTheme": "vs-seti",
     "workbench.colorCustomizations": {
+    },
+    "editor.quickSuggestions": {
+
+        "other": "on",
+        "comments": "off",
+        "strings": "on"
     }
 }
